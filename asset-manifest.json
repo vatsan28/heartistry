@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/heartistry/static/css/main.2cce8147.chunk.css",
-    "main.js": "/heartistry/static/js/main.4043ec95.chunk.js",
-    "main.js.map": "/heartistry/static/js/main.4043ec95.chunk.js.map",
+    "main.css": "/heartistry/static/css/main.34de6062.chunk.css",
+    "main.js": "/heartistry/static/js/main.413c868b.chunk.js",
+    "main.js.map": "/heartistry/static/js/main.413c868b.chunk.js.map",
     "runtime~main.js": "/heartistry/static/js/runtime~main.641d13d2.js",
     "runtime~main.js.map": "/heartistry/static/js/runtime~main.641d13d2.js.map",
-    "static/js/2.b41502e9.chunk.js": "/heartistry/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/heartistry/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.f2ecf484.chunk.js": "/heartistry/static/js/2.f2ecf484.chunk.js",
+    "static/js/2.f2ecf484.chunk.js.map": "/heartistry/static/js/2.f2ecf484.chunk.js.map",
     "index.html": "/heartistry/index.html",
-    "precache-manifest.dc3ecded574c026b9d804c30a6989f8d.js": "/heartistry/precache-manifest.dc3ecded574c026b9d804c30a6989f8d.js",
+    "precache-manifest.12ce4997160d75334d353aa60985862a.js": "/heartistry/precache-manifest.12ce4997160d75334d353aa60985862a.js",
     "service-worker.js": "/heartistry/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/heartistry/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/heartistry/static/media/logo.5d5d9eef.svg"
+    "static/css/main.34de6062.chunk.css.map": "/heartistry/static/css/main.34de6062.chunk.css.map"
   }
 }

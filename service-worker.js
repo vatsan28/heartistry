@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/heartistry/precache-manifest.dc3ecded574c026b9d804c30a6989f8d.js"
+  "/heartistry/precache-manifest.12ce4997160d75334d353aa60985862a.js"
 );
 
 self.addEventListener('message', (event) => {
