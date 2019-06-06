@@ -2,7 +2,7 @@
   "name": "heartistry",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vatsan28.github.io/heartistry",
+  "homepage": "https://vatsan28.github.io/heartistry",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

@@ -1,13 +1,13 @@
 import React from "react";
-import  { BrowserRouter, Switch, Route } from 'react-router-dom';
-// import ComingSoon from "./ComingSoon/";
+import  { HashRouter, Switch, Route } from 'react-router-dom';
+
 const Router = () => {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Switch>
                 <Route exact path = "/" render={() => {window.location.href="./ComingSoon/index.html"}} />
             </Switch>
-        </BrowserRouter>
+        </HashRouter>
     )
 }
 
